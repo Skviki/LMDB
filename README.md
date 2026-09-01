@@ -16,4 +16,4 @@ The project was developed on **Linux Mint** and has not been tested on other Deb
 
 - C#
 - GTK
-- FFmpeg
+- dpkg-deb
